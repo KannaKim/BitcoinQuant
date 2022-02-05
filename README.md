@@ -8,6 +8,8 @@ There are multiple of models that does their own things. I will explain what eac
 
 _note: data is not the most recent_
 
+this is only preview, there's more.
+
 ## BTC ROI per cycle 
 
 it measures how long has it been and how much the price was historically. 
